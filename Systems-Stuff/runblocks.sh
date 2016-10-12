@@ -1,0 +1,1 @@
+clang -fblocks blocks-test.c
